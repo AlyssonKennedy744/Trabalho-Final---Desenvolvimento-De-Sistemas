@@ -9,7 +9,7 @@ O projeto foi desenvolvido para atender aos requisitos do **Trabalho Final de LT
 ## 👥 Integrantes do Grupo
 
 * **Alysson Kennedy De Oliveira Carvalho**
-* **Matheus Costas Pessanha**
+* **Matheus Costa Pessanha**
 
 ---
 
