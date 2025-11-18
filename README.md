@@ -37,7 +37,6 @@ O código foi organizado de forma modular conforme exigido:
 | `api.py` | Camada de serviço. Contém as rotas da API Flask (Endpoints). |
 
 ---
-
 ## 📦 Como Executar
 
 ### 1. Pré-requisitos
