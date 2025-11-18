@@ -6,6 +6,13 @@ O projeto foi desenvolvido para atender aos requisitos do **Trabalho Final de LT
 
 ---
 
+## 👥 Integrantes do Grupo
+
+* **Alysson Kennedy De Oliveira Carvalho**
+* **Matheus Costas Pessanha**
+
+---
+
 ## 🚀 Funcionalidades
 
 * **Interface Gráfica (GUI):** Visual moderno e intuitivo (tema *Cerculean*) para gerenciar o catálogo.
@@ -27,8 +34,6 @@ O projeto foi desenvolvido para atender aos requisitos do **Trabalho Final de LT
 
 ## 📂 Estrutura do Projeto
 
-O código foi organizado de forma modular conforme exigido:
-
 | Arquivo | Descrição |
 | :--- | :--- |
 | `main.py` | Ponto de entrada. Inicia a API em uma thread separada e lança a Interface Gráfica. |
@@ -41,7 +46,7 @@ O código foi organizado de forma modular conforme exigido:
 ## 📦 Como Executar
 
 ### 1. Pré-requisitos
-Certifique-se de ter o Python instalado. Em seguida, instale as dependências externas necessárias:
+Instale as dependências necessárias:
 
 ```bash
 pip install flask ttkbootstrap
