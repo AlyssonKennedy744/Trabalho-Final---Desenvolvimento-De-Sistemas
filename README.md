@@ -42,7 +42,6 @@ O projeto foi desenvolvido para atender aos requisitos do **Trabalho Final de LT
 | `api.py` | Camada de serviço. Contém as rotas da API Flask (Endpoints). |
 
 ---
-
 ## 📦 Como Executar
 
 ### 1. Pré-requisitos
